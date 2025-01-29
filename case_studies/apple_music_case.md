@@ -7,7 +7,7 @@
 ```markdown
 # 🎵 Apple Music Case Study: Reinventing User Engagement with AI & Exclusive Content  
 
-**📅 Published on:** *(Add Date Here)*  
+**📅 Published on:** *1/29/2025*  
 **📍 Category:** Music Streaming | AI Personalization | Project Management  
 
 ---
